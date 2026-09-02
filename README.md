@@ -19,6 +19,7 @@ your own A1/A2/B1 study materials.
 - LLM — Groq (Llama)
 - Web interface — Streamlit
 - Containerised — Docker
+- Deployed — AWS EC2
 
 ## Project structure
 
