@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.git/
+*.zip
+chroma_db/
+data/
+output.txt
+sample_test.py
+test.py
