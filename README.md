@@ -4,8 +4,8 @@ An AI-powered German language study chatbot built
 using Retrieval Augmented Generation (RAG).
 
 
-##  Live Demo
-**http://16.176.102.209:8501**
+## Live Demo
+**http://15.135.84.217:8501**
 
 ## What it does
 Ask questions about German grammar and vocabulary 
